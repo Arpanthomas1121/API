@@ -6,6 +6,7 @@ proper working API with sends data to write in the webpages and working url hand
           "localhost:3399/"- homepage ;
           "localhost:3399/users"- user details; 
           "localhost:3399/posts"- post details;
+              
 --------------------------------------------------------------------------------------------------------
 TASK PLANNED but NOT COMPLETED 
 I have planned to do more but due to constrain in time and my knowledge i couldn't able to finish
